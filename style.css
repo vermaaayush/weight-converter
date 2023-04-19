@@ -1,0 +1,42 @@
+.container{
+	height:auto;
+	width: 500px;
+	border: 1px solid red;
+	margin-top: 20px;
+    border-radius: 0px 25px 0px 25px;
+	box-shadow: 25px 25px black;
+    background-color: #3b3832;
+}
+
+
+.main_heading{
+font-style: initial;
+font-size: 50px;
+color:#1aba45;
+}
+.inputfield{
+	margin-top: 50px;
+
+}
+.grams{
+background-color: #4287f5;
+padding-left: 20px;
+border-bottom: 3px solid black
+}
+.kilograms{
+background-color: #54c72a;
+padding-left: 20px;
+border-bottom: 3px solid black
+
+}
+.ounces{
+background-color: #e0960b;
+padding-left: 20px;
+border-bottom: 3px solid black
+
+}
+.convert_btn{
+	margin-top: 20px;
+	margin-left: 41%;
+	margin-bottom: 30px;
+}
